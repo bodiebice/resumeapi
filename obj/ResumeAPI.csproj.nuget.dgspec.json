@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/bodiebice/coding/ResumeAPI/ResumeAPI.csproj": {}
+    "/Users/bodiebice/coding/resumeapi/ResumeAPI.csproj": {}
   },
   "projects": {
-    "/Users/bodiebice/coding/ResumeAPI/ResumeAPI.csproj": {
+    "/Users/bodiebice/coding/resumeapi/ResumeAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bodiebice/coding/ResumeAPI/ResumeAPI.csproj",
+        "projectUniqueName": "/Users/bodiebice/coding/resumeapi/ResumeAPI.csproj",
         "projectName": "ResumeAPI",
-        "projectPath": "/Users/bodiebice/coding/ResumeAPI/ResumeAPI.csproj",
+        "projectPath": "/Users/bodiebice/coding/resumeapi/ResumeAPI.csproj",
         "packagesPath": "/Users/bodiebice/.nuget/packages/",
-        "outputPath": "/Users/bodiebice/coding/ResumeAPI/obj/",
+        "outputPath": "/Users/bodiebice/coding/resumeapi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/bodiebice/.nuget/NuGet/NuGet.Config"

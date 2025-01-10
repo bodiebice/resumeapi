@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6f851BeG008=",
+  "dgSpecHash": "6euDCAzMvGs=",
   "success": true,
-  "projectFilePath": "/Users/bodiebice/coding/ResumeAPI/ResumeAPI.csproj",
+  "projectFilePath": "/Users/bodiebice/coding/resumeapi/ResumeAPI.csproj",
   "expectedPackageFiles": [
     "/Users/bodiebice/.nuget/packages/microsoft.aspnetcore.diagnostics.entityframeworkcore/9.0.0/microsoft.aspnetcore.diagnostics.entityframeworkcore.9.0.0.nupkg.sha512",
     "/Users/bodiebice/.nuget/packages/microsoft.entityframeworkcore/9.0.0/microsoft.entityframeworkcore.9.0.0.nupkg.sha512",

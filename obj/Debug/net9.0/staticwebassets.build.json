@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "xdV9kqnt7qg+ScjosU02AwQ1D5ElJDf/XiinDkzjM6k=",
-  "Source": "TodoApi",
-  "BasePath": "_content/TodoApi",
+  "Hash": "BtQOzllvcqw8Z6zjzi2nTDFbHNmJbJO/FRgWPtB53Vc=",
+  "Source": "ResumeAPI",
+  "BasePath": "_content/ResumeAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
